@@ -11,8 +11,6 @@ N/A
 
 ## Usage
 
-This site is accessible using [Accessible Marketing Site](LINK).
-
 The site will look like the following screenshots:
 
 ![README ScreenShot 1] (assets/images/README-SS-1.png)
